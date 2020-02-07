@@ -1,0 +1,38 @@
+{
+  "name": "ogura-hyakunin-isshu",
+  "private": true,
+  "description": "An anthology of one hundred Japanese waka by one hundred poets.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "dependencies": {
+    "gatsby": "^2.19.7",
+    "gatsby-image": "^2.2.40",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-json": "^2.2.26",
+    "gatsby-transformer-sharp": "^2.3.14",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akashmeshram/Ogura-Hyakunin-Isshu"
+  },
+  "bugs": {
+    "url": "https://github.com/akashmeshram/Ogura-Hyakunin-Isshu/issues"
+  }
+}
