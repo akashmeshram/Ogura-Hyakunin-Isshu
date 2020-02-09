@@ -20,7 +20,7 @@ export default ({ data, pageContext }) => {
       <h3>{poem.author_romaji}</h3>
       
       <div className={styles.contents}>        
-        <Img className={styles.poet}fixed={data.file.childImageSharp.fixed}  alt={poem.author_en} />
+        <Img className={styles.poet} fixed={data.file.childImageSharp.fixed} alt={poem.author_en} />
         <div className={styles.poems}>
           <p className={styles.rom}>{poemRom}</p>     
           <p className={styles.eng}>{poemEng}</p>
