@@ -25,7 +25,7 @@ export default () => {
                   publicURL
                   childImageSharp {
                     fixed(width: 265, height: 370) {
-                      ...GatsbyImageSharpFixed
+                      ...GatsbyImageSharpFixed_noBase64
                     }
                   }
                 }

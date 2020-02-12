@@ -54,7 +54,7 @@ export const query = graphql`
       publicURL
       childImageSharp {
         fixed(height: 400) {
-          ...GatsbyImageSharpFixed
+          ...GatsbyImageSharpFixed_noBase64
         }
       }
     }
