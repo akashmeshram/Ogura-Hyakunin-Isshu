@@ -35,7 +35,8 @@ export default () => {
 
     return (    
       <div>
-        <h4>{data.allPoemsDataJson.totalCount} Poems</h4>
+        <h2>小倉百人一首</h2>
+        <h3> Fujiwara no Teika</h3>
           <div className={styles.poemsContainer}>
             {data.allPoemsDataJson.edges.map(({ node }) => (
               <BackgroundImage Tag="div" className={styles.poem} key={node.id} fixed={data.file.childImageSharp.fixed}>               

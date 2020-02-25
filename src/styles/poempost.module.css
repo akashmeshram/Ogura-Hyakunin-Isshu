@@ -1,36 +1,18 @@
-.contents {
-    display: flex;
-    justify-content: center;
-    margin: 60px;
-}
-
-.poet {
-    margin-right: 100px;
-}
-
-.poems {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .eng {
-    text-align: left;
+    text-align: center;
     color:#E25548;
 }
 
 .rom {
-    text-align: right;
+    text-align: center;
 }
 
-.eng, .rom {
-    padding: 20px;
-    line-height: 2;
+.pnav {
+    margin: 40px 10px 20px 10px;
 }
 
 .pnav button {
-    margin: 30px;
-    width: 150px;
+    width: 100px;
 	padding: 10px;
 	background-color: white;
 	opacity:0.9;
@@ -39,12 +21,58 @@
 }
 
 .home button {
-    width: 150px;
+    width: 100px;
 	padding: 10px;
 	background-color: #E87C7C;
 	color: white;
 	border: 2px solid white;	
 }
+
+@media screen and (min-width: 768px) {
+    .contents {
+        display: flex;
+        justify-content: center;
+        margin: 60px;
+    }
+
+    .poet {
+        margin-right: 100px;
+    }
+    
+    .poems {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .eng {
+        text-align: left;
+        color:#E25548;
+    }
+    
+    .rom {
+        text-align: right;
+    }
+    
+    .eng, .rom {
+        padding: 20px;
+        line-height: 2;
+    }
+
+    .pnav {
+        margin: 40px 10px;
+    }
+
+    .pnav button {
+        width: 150px;
+    }    
+
+    .home button {
+        width: 150px;
+    }
+}
+
+
 
 button:hover {
     cursor: pointer;
