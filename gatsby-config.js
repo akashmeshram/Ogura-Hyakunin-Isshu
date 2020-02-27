@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: `/Ogura-Hyakunin-Isshu`,
+  pathPrefix: '/Ogura-Hyakunin-Isshu',
   siteMetadata: {
-    title: `Ogura`,
+    title: `Ogura-Hyakunin-Isshu`,
   },
   plugins: [
     {
