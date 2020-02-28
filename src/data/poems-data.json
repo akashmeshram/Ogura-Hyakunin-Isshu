@@ -12,7 +12,7 @@
     "author_romaji": "Tenji Tennō",
     "poem_theme": "農夫の辛苦を思いやる天皇の心",
     "commentary": "##",
-    "title": "And my sleeves are growing wet"
+    "title": "The heart of the emperor who cares for the farmer's suffering"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "author_romaji": "Jitō Tennō",
     "poem_theme": "さわやかな夏のおとずれ、時の推移",
     "commentary": "##",
-    "title": "So they say, are spread to dry"
+    "title": "Refreshing summer slips, changes over time"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "author_romaji": "Kakinomoto no Hitomaro",
     "poem_theme": "長い夜をひとり寝るさびしさの嘆き",
     "commentary": "##",
-    "title": "Through this long, long-dragging night"
+    "title": "The mourning of loneliness sleeping alone for a long night"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "author_romaji": "Yamabe no Akahito",
     "poem_theme": "富士山の神聖な美しさへの感動",
     "commentary": "##",
-    "title": "On Mount Fuji's lofty peak"
+    "title": "Impressed by the sacred beauty of Mt. Fuji"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
     "author_romaji": "Sarumaru Dayū",
     "poem_theme": "暮れてゆく秋山の寂寥と哀感",
     "commentary": "##",
-    "title": "When I hear the lonely cry,"
+    "title": "The loneliness and sorrow of Akiyama in the dark"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     "author_romaji": "Chūnagon Yakamochi",
     "poem_theme": "宮中の冬の霜の夜更けの幻想的な美しさ",
     "commentary": "##",
-    "title": "Made white with a deep-laid frost,"
+    "title": "Fantastic beauty of the late winter frost in the palace"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
     "author_romaji": "Abe no Nakamaro",
     "poem_theme": "異国で見る月によって催された望郷の念",
     "commentary": "##",
-    "title": "That rose on Mount Mikasa"
+    "title": "Nostalgia held by the moon seen in a foreign country"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
     "author_romaji": "Kisen Hōshi",
     "poem_theme": "心静かに住む、宇治での隠棲",
     "commentary": "##",
-    "title": "And the world in which I live"
+    "title": "Residence in Uji, living quietly"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
     "author_romaji": "Ono no Komachi",
     "poem_theme": "色あせた桜に寄せての、容色の衰えと憂愁の心",
     "commentary": "##",
-    "title": "My life passes vainly by,"
+    "title": "The fading and melancholy feelings of faded cherry blossoms"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
     "author_romaji": "Semimaru",
     "poem_theme": "人々が出逢っては別れる、逢坂の関に寄せる感慨",
     "commentary": "##",
-    "title": "Friends or strangers -- all must meet:"
+    "title": "People meet and break up, emotions approaching Osaka Seki"
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
     "author_romaji": "Sangi Takamura",
     "poem_theme": "配流の舟出の孤独感と、都の人に寄せる思慕の情",
     "commentary": "##",
-    "title": "Will the fishing boats thronged here"
+    "title": "The loneliness of the boat of the distribution and the longing for the people of the city"
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
     "author_romaji": "Sōjō Henjō",
     "poem_theme": "五節の舞姫の美しさに魅せられ、これを賛美する心",
     "commentary": "##",
-    "title": "Then for a while I could detain"
+    "title": "I am fascinated by the beauty of the five-story princess and praise her"
   },
   {
     "id": 13,
@@ -192,7 +192,7 @@
     "author_romaji": "Yōzei In",
     "poem_theme": "ひそかな恋心が積もり深い物思いに悩んでいること",
     "commentary": "##",
-    "title": "So my love has grown to be"
+    "title": "The secret love is struggling with deep thoughts"
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
     "author_romaji": "Kawara no Sadaijin",
     "poem_theme": "相手のために乱れてしまった心の強い高ぶり",
     "commentary": "##",
-    "title": "That I have become confused;"
+    "title": "A strong heart that has been disturbed by the opponent"
   },
   {
     "id": 15,
@@ -222,7 +222,7 @@
     "author_romaji": "Kōkō Tennō",
     "poem_theme": "雪に降られながら若菜を摘む、相手へのまごころ",
     "commentary": "##",
-    "title": "While my garment's hanging sleeves"
+    "title": "Picking wakana while falling in the snow, heartfelt to the opponent"
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
     "author_romaji": "Chūnagon Yukihira",
     "poem_theme": "別れに際して名残を惜しむ人への挨拶",
     "commentary": "##",
-    "title": "Of the pine trees growing there,"
+    "title": "Greetings for those who miss their remnants upon parting"
   },
   {
     "id": 17,
@@ -252,7 +252,7 @@
     "author_romaji": "Ariwara no Narihira Ason",
     "poem_theme": "竜田川に散り流れる紅葉の華麗な美しさ",
     "commentary": "##",
-    "title": "That water gleamed with autumn red"
+    "title": "The splendid beauty of autumn leaves flowing down the Tatsuta River"
   },
   {
     "id": 18,
@@ -267,7 +267,7 @@
     "author_romaji": "Fujiwara no Toshiyuki Ason",
     "poem_theme": "夢においても人目を忍ぶ恋のもどかしさ",
     "commentary": "##",
-    "title": "When in dreams I go to you,"
+    "title": "The frustration of love that keeps an eye out even in dreams"
   },
   {
     "id": 19,
@@ -282,7 +282,7 @@
     "author_romaji": "Ise",
     "poem_theme": "訪れて来ない男をなじる恨みと嘆きの心",
     "commentary": "##",
-    "title": "We must never meet again:"
+    "title": "Resentment and grief of a man who does not come"
   },
   {
     "id": 20,
@@ -297,7 +297,7 @@
     "author_romaji": "Motoyoshi Shinnō",
     "poem_theme": "身を滅ぼしてでも会いたいという激しい恋心",
     "commentary": "##",
-    "title": "Even though it costs my life"
+    "title": "Intense love of wanting to meet you even if you destroy yourself"
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
     "author_romaji": "Sosei Hōshi",
     "poem_theme": "約束しながら来なかった男への恨み言",
     "commentary": "##",
-    "title": "Until the moon of daybreak,"
+    "title": "Resentment for a man who did not come with a promise"
   },
   {
     "id": 22,
@@ -327,7 +327,7 @@
     "author_romaji": "Fun\\'ya no Yasuhide",
     "poem_theme": "秋の草木をしおれさせる山風の荒々しさ",
     "commentary": "##",
-    "title": "So they call this mountain wind"
+    "title": "Mountain-like violence that withers autumn vegetation"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
     "author_romaji": "Ōe no Chisato",
     "poem_theme": "秋の夜の月をながめて、物思いにふける孤独の悲哀",
     "commentary": "##",
-    "title": "Yet it's not for me alone,"
+    "title": "A pensive lonely sorrow, looking at the moon on an autumn night"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
     "author_romaji": "Kan Ke",
     "poem_theme": "手向山の紅葉を幣としてささげること",
     "commentary": "##",
-    "title": "Here are brocades of red leaves,"
+    "title": "Offering the autumn leaves of Mt."
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
     "author_romaji": "Sanjō no Udaijin",
     "poem_theme": "誰にも知られないで逢いたいという切実な思慕の情",
     "commentary": "##",
-    "title": "Hidden from people's gaze,"
+    "title": "A compelling yearning to want to meet without anyone knowing"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
     "author_romaji": "Teishin Kō",
     "poem_theme": "紅葉の美しさへの賛美と、散らずにいてほしい願望",
     "commentary": "##",
-    "title": "They would longingly await"
+    "title": "Praise for the beauty of the fall foliage and the desire not to scatter"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
     "author_romaji": "Chūnagon Kanesuke",
     "poem_theme": "まだ見ぬ女性に対する強い恋心の不思議さ",
     "commentary": "##",
-    "title": "I do not know if we have met:"
+    "title": "The mystery of a strong love for a woman I haven't seen yet"
   },
   {
     "id": 28,
@@ -417,7 +417,7 @@
     "author_romaji": "Minamoto no Muneyuki Ason",
     "poem_theme": "人も訪れず草も枯れてしまう冬の山里の寂寥感",
     "commentary": "##",
-    "title": "Guests are gone, and leaves and grass"
+    "title": "The loneliness of a winter mountain village where no one comes and the grass dies"
   },
   {
     "id": 29,
@@ -432,7 +432,7 @@
     "author_romaji": "Ōshikōchi no Mitsune",
     "poem_theme": "初霜にまぎれるばかりの白菊の清楚な美しさ",
     "commentary": "##",
-    "title": "Of the early autumn time,"
+    "title": "The neat beauty of white chrysanthemums that is just overwhelmed by first frost"
   },
   {
     "id": 30,
@@ -447,7 +447,7 @@
     "author_romaji": "Mibu no Tadamine",
     "poem_theme": "よそよそしい態度を見せた女性への恨み言",
     "commentary": "##",
-    "title": "I dislike nothing so much"
+    "title": "Resentment for a woman who showed her unfriendly attitude"
   },
   {
     "id": 31,
@@ -462,7 +462,7 @@
     "author_romaji": "Sakanoue no Korenori",
     "poem_theme": "有明の月のように明るく降り積もる吉野の雪の清さ",
     "commentary": "##",
-    "title": "Yoshino's village lay"
+    "title": "The freshness of the snow in Yoshino, as bright as the moon in Ariake"
   },
   {
     "id": 32,
@@ -477,7 +477,7 @@
     "author_romaji": "Harumichi no Tsuraki",
     "poem_theme": "山川にしがらみのように散りたまった紅葉の美しさ",
     "commentary": "##",
-    "title": "Yet it's only maple leaves,"
+    "title": "Beautiful autumn leaves scattered like a mountain river"
   },
   {
     "id": 33,
@@ -492,7 +492,7 @@
     "author_romaji": "Ki no Tomonori",
     "poem_theme": "春ののどかな陽光の中に散る桜の美しさを惜しむ心",
     "commentary": "##",
-    "title": "Why do the cherry's new-blown blooms"
+    "title": "Spear of the beauty of the cherry blossoms scattered in the peaceful sunlight of spring"
   },
   {
     "id": 34,
@@ -507,7 +507,7 @@
     "author_romaji": "Fujiwara no Okikaze",
     "poem_theme": "昔の友人がみな死んでしまった、孤独な老いの嘆き",
     "commentary": "##",
-    "title": "Even Takasago's pines"
+    "title": "Lonely old lament, all old friends died"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
     "author_romaji": "Ki no Tsurayuki",
     "poem_theme": "変わらぬ梅の美しさと、人の心のうつろいやすさ",
     "commentary": "##",
-    "title": "The plum blossoms smell the same"
+    "title": "The beauty of unchanging plums and the ease with which people can relax"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
     "author_romaji": "Kiyohara no Fukayabu",
     "poem_theme": "雲の彼方に姿を隠している、夏の夜の月を惜しむ心",
     "commentary": "##",
-    "title": "To what region of the clouds"
+    "title": "Hiding behind the clouds, the heart of the moon on a summer night"
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
     "author_romaji": "Fun\\'ya no Asayasu",
     "poem_theme": "秋の野の風に散り乱れる白露の美しさ",
     "commentary": "##",
-    "title": "How the myriad unstrung gems"
+    "title": "Beautiful white dew scattered in the breeze of autumn fields"
   },
   {
     "id": 38,
@@ -567,7 +567,7 @@
     "author_romaji": "Ukon",
     "poem_theme": "愛を誓った相手が神罰で滅びゆくことを惜しむ恋心",
     "commentary": "##",
-    "title": "And his life, who is forsworn,"
+    "title": "Love, who swears that the person who has sworn love will perish with divine punishment"
   },
   {
     "id": 39,
@@ -582,7 +582,7 @@
     "author_romaji": "Sangi Hitoshi",
     "poem_theme": "おさえられない恋心の切なさの告白",
     "commentary": "##",
-    "title": "But it is too much to bear"
+    "title": "A confession of sadness of uncontrollable love"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
     "author_romaji": "Taira no Kanemori",
     "poem_theme": "隠せば隠すほど表情に表れてしまう悩ましい恋心",
     "commentary": "##",
-    "title": "And now he questions me:"
+    "title": "The more you hide, the more annoying love you will see in your expression"
   },
   {
     "id": 41,
@@ -612,7 +612,7 @@
     "author_romaji": "Mibu no Tadami",
     "poem_theme": "ひそかな恋が人の噂になってしまったことへの当惑",
     "commentary": "##",
-    "title": "When people should not have known"
+    "title": "Embarrassed that secret love has become a rumor for others"
   },
   {
     "id": 42,
@@ -627,7 +627,7 @@
     "author_romaji": "Kiyohara no Motosuke",
     "poem_theme": "約束を守らずに心変わりした女性の不実をなじる心",
     "commentary": "##",
-    "title": "Over Sue's Mount of Pines"
+    "title": "A heart that adapts to the misery of a woman who has changed her mind without keeping her promise"
   },
   {
     "id": 43,
@@ -642,7 +642,7 @@
     "author_romaji": "Gon Chūnagon Atsutada",
     "poem_theme": "契りを結んでからの深い恋心の切なさ",
     "commentary": "##",
-    "title": "My passion is now as if"
+    "title": "I can't feel deep love after signing a contract"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
     "author_romaji": "Chūnagon Asatada",
     "poem_theme": "逢ってかえってつれなくなった相手を恨む苦しみ",
     "commentary": "##",
-    "title": "And I doubt that she or I"
+    "title": "The suffering that grudges the partner who can no longer be met"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
     "author_romaji": "Kentoku Kō",
     "poem_theme": "女に捨てられた男の、孤独な弱い心",
     "commentary": "##",
-    "title": "Now my folly's fitting end"
+    "title": "The lonely weak heart of a man abandoned by a woman"
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
     "author_romaji": "Sone no Yoshitada",
     "poem_theme": "将来の予測のつかない恋の行く末の不安",
     "commentary": "##",
-    "title": "Where, over the deep of love,"
+    "title": "Uncertainty about the future of unpredictable love"
   },
   {
     "id": 47,
@@ -702,7 +702,7 @@
     "author_romaji": "Egyō Hōshi",
     "poem_theme": "訪れるものは秋だけという荒れた住まいのわびしさ",
     "commentary": "##",
-    "title": "Comes the dreary autumn time:"
+    "title": "The loneliness of a desolate house with only autumn to visit"
   },
   {
     "id": 48,
@@ -717,7 +717,7 @@
     "author_romaji": "Minamoto no Shigeyuki",
     "poem_theme": "つれない女性のために思い悩む片思いのやるせなさ",
     "commentary": "##",
-    "title": "And crushed upon the shore,"
+    "title": "I can't help thinking of a woman who can't help"
   },
   {
     "id": 49,
@@ -732,7 +732,7 @@
     "author_romaji": "Ōnakatomi no Yoshinobu Ason",
     "poem_theme": "夜も昼も思い悩む恋心の苦しみ",
     "commentary": "##",
-    "title": "Dull in ashes through the day --"
+    "title": "Love suffering at night and day"
   },
   {
     "id": 50,
@@ -747,7 +747,7 @@
     "author_romaji": "Fujiwara no Yoshitaka",
     "poem_theme": "命まで惜しくないと思った恋の永続を願う気持ち",
     "commentary": "##",
-    "title": "But now it is my heart's desire"
+    "title": "I hope that I will never miss my life"
   },
   {
     "id": 51,
@@ -762,7 +762,7 @@
     "author_romaji": "Fujiwara no Sanekata Ason",
     "poem_theme": "胸にあまる切ない恋心を相手に訴えようとする心",
     "commentary": "##",
-    "title": "That the love I feel for her"
+    "title": "The heart that tries to appeal to the partner for a sad love that fits in his chest"
   },
   {
     "id": 52,
@@ -777,7 +777,7 @@
     "author_romaji": "Fujiwara no Michinobu Ason",
     "poem_theme": "また逢えると知りながらも別れて帰る夜明けのつらさ",
     "commentary": "##",
-    "title": "Still, in truth, I hate the sight"
+    "title": "The dawning of dawn, knowing that he will meet again, and returning home"
   },
   {
     "id": 53,
@@ -792,7 +792,7 @@
     "author_romaji": "Udaishō Michitsuna no Haha",
     "poem_theme": "ひとり寝の長くつらい夜の嘆きを相手に訴える心",
     "commentary": "##",
-    "title": "Can you realize at all"
+    "title": "A heart that appeals to the long sorrowful night's sorrow of sleeping alone"
   },
   {
     "id": 54,
@@ -807,7 +807,7 @@
     "author_romaji": "Gidō Sanshi no Haha",
     "poem_theme": "幸福の絶頂において死んでしまいたいという女心",
     "commentary": "##",
-    "title": "It would be well this very day"
+    "title": "Women want to die at the height of happiness"
   },
   {
     "id": 55,
@@ -822,7 +822,7 @@
     "author_romaji": "Dainagon Kintō",
     "poem_theme": "水が涸れて久しい滝の今もなお伝わる名声への賛美",
     "commentary": "##",
-    "title": "Yet, in name it ever flows,"
+    "title": "Praise to the still-famous reputation of a waterfall that has long dried up"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
     "author_romaji": "Izumi Shikibu",
     "poem_theme": "来世への思い出にもう一度逢いたいという恋心",
     "commentary": "##",
-    "title": "Let me remember only this:"
+    "title": "Love to meet the memories of the afterlife again"
   },
   {
     "id": 57,
@@ -852,7 +852,7 @@
     "author_romaji": "Murasaki Shikibu",
     "poem_theme": "あわただしく帰っていった幼友だちへの名残惜しさ",
     "commentary": "##",
-    "title": "Because the midnight moon"
+    "title": "Sorry for leaving a hurry to a young friend"
   },
   {
     "id": 58,
@@ -867,7 +867,7 @@
     "author_romaji": "Daini no Sanmi",
     "poem_theme": "冷たい男に対して自分の変わらぬ気持を訴える心",
     "commentary": "##",
-    "title": "I will be just as steadfast"
+    "title": "A heart that appeals to a cold man for his unchanging feeling"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
     "author_romaji": "Akazome Emon",
     "poem_theme": "来ると約束して来なかった男への恨み言",
     "commentary": "##",
-    "title": "Till I saw the lonely moon"
+    "title": "Resentment for a man who did not promise to come"
   },
   {
     "id": 60,
@@ -897,7 +897,7 @@
     "author_romaji": "Koshikibu no Naishi",
     "poem_theme": "母からの便りは受け取っていないという趣旨の伝達",
     "commentary": "##",
-    "title": "And neither have I beheld"
+    "title": "Communicating that you have not received the letter from your mother"
   },
   {
     "id": 61,
@@ -912,7 +912,7 @@
     "author_romaji": "Ise no Taifu",
     "poem_theme": "旧都平城京の八重桜が、平安京の宮中に咲く美しさ",
     "commentary": "##",
-    "title": "In our nine-fold palace court"
+    "title": "The beauty of the double cherry blossoms of the old Miyakodaira castle in the Imperial court of Heiankyo"
   },
   {
     "id": 62,
@@ -927,7 +927,7 @@
     "author_romaji": "Sei Shōnagon",
     "poem_theme": "夜深いうちに帰った男に対し、やり返す心",
     "commentary": "##",
-    "title": "But at Osaka's gateway"
+    "title": "Mind to return to man who returned early in the night"
   },
   {
     "id": 63,
@@ -942,7 +942,7 @@
     "author_romaji": "Sakyō no Daibu Michimasa",
     "poem_theme": "あきらめると一言だけでも直接告げたい切なる思い",
     "commentary": "##",
-    "title": "If I could, I'd come to you"
+    "title": "If you give up, I want to tell you a word directly"
   },
   {
     "id": 64,
@@ -957,7 +957,7 @@
     "author_romaji": "Gon Chūnagon Sadayori",
     "poem_theme": "霧の絶え間に網代木が見える宇治川のすがすがしさ",
     "commentary": "##",
-    "title": "From the shallows to the deep,"
+    "title": "The freshness of Uji River where you can see Ajirogi in the mist"
   },
   {
     "id": 65,
@@ -972,7 +972,7 @@
     "author_romaji": "Sagami",
     "poem_theme": "恋の浮き名に朽ちてしまいそうな自分を惜しむ心",
     "commentary": "##",
-    "title": "Worse than hate and misery"
+    "title": "Sorrow for myself, which is likely to decay in the name of love"
   },
   {
     "id": 66,
@@ -987,7 +987,7 @@
     "author_romaji": "Saki no Daisōjō Gyōson",
     "poem_theme": "修行のために入った深山での山桜に呼びかける孤独感",
     "commentary": "##",
-    "title": "Except for you, lonely friend,"
+    "title": "A feeling of loneliness calling for the mountain cherry blossoms in Miyama, who entered for training"
   },
   {
     "id": 67,
@@ -1002,7 +1002,7 @@
     "author_romaji": "Suō no Naishi",
     "poem_theme": "たわむれに契っては浮き名が立つと、断る気持ち",
     "commentary": "##",
-    "title": "This innocent dream pillow"
+    "title": "If you come up with a name, you will refuse."
   },
   {
     "id": 68,
@@ -1017,7 +1017,7 @@
     "author_romaji": "Sanjō In",
     "poem_theme": "不遇な現実も恋しく思えるだろうという絶望的嘆き",
     "commentary": "##",
-    "title": "Let me remember only"
+    "title": "Desperate lament that you will miss the unfortunate reality"
   },
   {
     "id": 69,
@@ -1032,7 +1032,7 @@
     "author_romaji": "Nōin Hōshi",
     "poem_theme": "竜田川に浮かぶもみじ葉の錦織のような美しさ",
     "commentary": "##",
-    "title": "Which turn Tatsuta River"
+    "title": "Beautiful, like the brocade of maple leaves floating on the Tatsuta River"
   },
   {
     "id": 70,
@@ -1047,7 +1047,7 @@
     "author_romaji": "Ryōsen Hōshi",
     "poem_theme": "ものみなが秋の夕暮れの寂寥をたたえている感慨",
     "commentary": "##",
-    "title": "Everywhere it is the same:"
+    "title": "Everyone feels the loneliness of autumn sunset"
   },
   {
     "id": 71,
@@ -1062,7 +1062,7 @@
     "author_romaji": "Dainagon Tsunenobu",
     "poem_theme": "夕方の田舎家に稲田を渡って吹いて来る秋風の風情",
     "commentary": "##",
-    "title": "And, into my round rush-hut,"
+    "title": "Autumn wind blowing across the rice fields to a country house in the evening"
   },
   {
     "id": 72,
@@ -1077,7 +1077,7 @@
     "author_romaji": "Yūshi Naishinnō-ke no Kii",
     "poem_theme": "浮気で評判の男性に言い寄られ、それを拒む気持ち",
     "commentary": "##",
-    "title": "If I should go near that shore."
+    "title": "I'm fooled by a reputable man for cheating and I refuse to do it."
   },
   {
     "id": 73,
@@ -1092,7 +1092,7 @@
     "author_romaji": "Gon Chūnagon Masafusa",
     "poem_theme": "はるかな山の峰に咲く桜への愛着",
     "commentary": "##",
-    "title": "Oh, let the mountain mists"
+    "title": "Attachment to the cherry blossoms blooming on the peak of the far mountain"
   },
   {
     "id": 74,
@@ -1107,7 +1107,7 @@
     "author_romaji": "Minamoto no Toshiyori Ason",
     "poem_theme": "つれない人をなびかせようと祈ったが、叶わぬ嘆き",
     "commentary": "##",
-    "title": "As pitiless and as cold"
+    "title": "I prayed to make someone who couldn't wake up, but my grief didn't come true"
   },
   {
     "id": 75,
@@ -1122,7 +1122,7 @@
     "author_romaji": "Fujiwara no Mototoshi",
     "poem_theme": "願っていた子供の栄達の約束が果たされぬ悲嘆",
     "commentary": "##",
-    "title": "Yet the year has passed away,"
+    "title": "The grief that the promises of the children's prosperity that they had hoped for could not be fulfilled"
   },
   {
     "id": 76,
@@ -1137,7 +1137,7 @@
     "author_romaji": "Hosshōji Nyūdō Saki No|Kanpaku Daijōdaijin",
     "poem_theme": "白雲と沖の白波とがとけあって見える大海原の眺め",
     "commentary": "##",
-    "title": "That the white waves, far away,"
+    "title": "A view of the open sea where the white clouds and the white waves off the coast merge"
   },
   {
     "id": 77,
@@ -1152,7 +1152,7 @@
     "author_romaji": "Sutoku In",
     "poem_theme": "仲をさかれても将来は一緒になろうという強い恋心",
     "commentary": "##",
-    "title": "Though divided, on it rushes,"
+    "title": "Strong love to be together in the future even if we get along"
   },
   {
     "id": 78,
@@ -1167,7 +1167,7 @@
     "author_romaji": "Minamoto no Kanemasa",
     "poem_theme": "須磨の千鳥の声によってもよおされた旅の哀感",
     "commentary": "##",
-    "title": "At the cries of sanderlings,"
+    "title": "Sadness of the journey, which was also voiced by Suma's Chidori's voice"
   },
   {
     "id": 79,
@@ -1182,7 +1182,7 @@
     "author_romaji": "Sakyō no Daibu Akisuke",
     "poem_theme": "雲の間からもれて来る秋の月の光の清らかな美しさ",
     "commentary": "##",
-    "title": "That, with drifting autumn wind,"
+    "title": "The pure beauty of the light of the autumn moon spilling out of the clouds"
   },
   {
     "id": 80,
@@ -1197,7 +1197,7 @@
     "author_romaji": "Taiken Mon In no Horikawa",
     "poem_theme": "契りを結んだ翌朝の、心変わりを案じる恋の物思い",
     "commentary": "##",
-    "title": "And now my daylight thoughts"
+    "title": "The next morning after signing a contract, the thoughts of love that change my mind"
   },
   {
     "id": 81,
@@ -1212,7 +1212,7 @@
     "author_romaji": "Go Tokudaiji no Sadaijin",
     "poem_theme": "ほととぎすの初音の方には月が浮かんでいたこと",
     "commentary": "##",
-    "title": "The only thing I found"
+    "title": "The moon was floating towards Hatsune of Hototogisu"
   },
   {
     "id": 82,
@@ -1227,7 +1227,7 @@
     "author_romaji": "Dōin Hōshi",
     "poem_theme": "つれない人を恋慕うことのつらさ、悲しさ",
     "commentary": "##",
-    "title": "But I cannot keep my tears;"
+    "title": "The pain and sadness of longing for someone who can't make it"
   },
   {
     "id": 83,
@@ -1242,7 +1242,7 @@
     "author_romaji": "Kōtaigōgū no Daibu Toshinari",
     "poem_theme": "夜の苦しみ、つらさをはらうすべのない深いさびしさ",
     "commentary": "##",
-    "title": "In the mountains' farthest depths;"
+    "title": "The suffering of the night, the deep loneliness that cannot be pained"
   },
   {
     "id": 84,
@@ -1257,7 +1257,7 @@
     "author_romaji": "Fujiwara no Kiyosuke Ason",
     "poem_theme": "つらく苦しい現実に暗く沈みがちな心境",
     "commentary": "##",
-    "title": "Just as past time filled with grief"
+    "title": "The feelings that tend to sink into the painful reality"
   },
   {
     "id": 85,
@@ -1272,7 +1272,7 @@
     "author_romaji": "Shun\\'e Hōshi",
     "poem_theme": "訪れて来ない男のつれなさを恨む心",
     "commentary": "##",
-    "title": "And now the bedroom shutters"
+    "title": "Sincere remorse for a man who doesn't come"
   },
   {
     "id": 86,
@@ -1287,7 +1287,7 @@
     "author_romaji": "Saigyō Hōshi",
     "poem_theme": "恋の物思いで、月を見ても涙がこぼれ落ちる心境",
     "commentary": "##",
-    "title": "Lifting up my troubled face,"
+    "title": "The feeling of falling in tears when looking at the moon with love thoughts"
   },
   {
     "id": 87,
@@ -1302,7 +1302,7 @@
     "author_romaji": "Jakuren Hōshi",
     "poem_theme": "霧が立ちのぼる秋の夕暮れの、静かで心寂しい情景",
     "commentary": "##",
-    "title": "That still hold the dripping wet"
+    "title": "The quiet and lonely scene of the autumn sunset with the fog rising"
   },
   {
     "id": 88,
@@ -1317,7 +1317,7 @@
     "author_romaji": "Kōka Mon In no Bettō",
     "poem_theme": "旅寝の一夜の契りゆえの一途な女の恋心のあわれさ",
     "commentary": "##",
-    "title": "Must I forever long for him"
+    "title": "The compassion of the lonely woman's romance because of the night's contract"
   },
   {
     "id": 89,
@@ -1332,7 +1332,7 @@
     "author_romaji": "Shokushi Naishinnō",
     "poem_theme": "人目を忍び心に秘める、忍ぶ恋の激しい心情",
     "commentary": "##",
-    "title": "All I do to hide my love"
+    "title": "The intense emotion of a sneaking love that keeps an eye on the eyes"
   },
   {
     "id": 90,
@@ -1347,7 +1347,7 @@
     "author_romaji": "Inpu Mon In no Taifu",
     "poem_theme": "相手のつれなさを嘆き、つらさを訴える恋の心情",
     "commentary": "##",
-    "title": "Though wet through and wet again,"
+    "title": "The feelings of love mourning their opponents and complaining about them"
   },
   {
     "id": 91,
@@ -1362,7 +1362,7 @@
     "author_romaji": "Go Kyōgoku Sesshō Saki no|Daijōdaijin",
     "poem_theme": "寒い霜夜のひとり寝のわびしさ",
     "commentary": "##",
-    "title": "While all through the frosty night"
+    "title": "The loneliness of sleeping alone in a cold frosty night"
   },
   {
     "id": 92,
@@ -1377,7 +1377,7 @@
     "author_romaji": "Nijō In no Sanuki",
     "poem_theme": "人知れぬ片恋の嘆き、悲しみ",
     "commentary": "##",
-    "title": "Never for a moment dry,"
+    "title": "The mourning and sadness of a strange love"
   },
   {
     "id": 93,
@@ -1392,7 +1392,7 @@
     "author_romaji": "Kamakura no Udaijin",
     "poem_theme": "漁師のさまを見て、世の無常を嘆く哀感",
     "commentary": "##",
-    "title": "Of the little fishing boat"
+    "title": "Looking at fishermen, lamenting the impermanence of the world"
   },
   {
     "id": 94,
@@ -1407,7 +1407,7 @@
     "author_romaji": "Sangi Masatsune",
     "poem_theme": "きぬたの音が身にしみる、吉野山の秋の夜の寂しさ",
     "commentary": "##",
-    "title": "The ancient village shivers:"
+    "title": "The loneliness of the autumn night at Mt. Yoshino, where you can hear the sound of Kinuta"
   },
   {
     "id": 95,
@@ -1422,7 +1422,7 @@
     "author_romaji": "Saki no Daisōjō Jien",
     "poem_theme": "世の人々のために仏の加護を祈ろうとする決意",
     "commentary": "##",
-    "title": "And though I am unworthy,"
+    "title": "Decision to pray for Buddha for the people of the world"
   },
   {
     "id": 96,
@@ -1437,7 +1437,7 @@
     "author_romaji": "Nyūdō Saki no Daijōdaijin",
     "poem_theme": "桜の落花に寄せて述べる自身の老いの嘆き",
     "commentary": "##",
-    "title": "What withers and falls away"
+    "title": "His old mourning to address the falling cherry blossoms"
   },
   {
     "id": 97,
@@ -1452,7 +1452,7 @@
     "author_romaji": "Gon Chūnagon Sadaie",
     "poem_theme": "待てども来ぬ人を待つ女心のもどかしさ、嘆き",
     "commentary": "##",
-    "title": "All my being is aflame,"
+    "title": "Waiting, the frustration of a woman waiting for someone who doesn't come"
   },
   {
     "id": 98,
@@ -1467,7 +1467,7 @@
     "author_romaji": "Junii Ietaka",
     "poem_theme": "秋の気配が感じられる、夏の終わりの夕暮れの情感",
     "commentary": "##",
-    "title": "Not a sign of summer left"
+    "title": "A feeling of autumn, the feeling of dusk in late summer"
   },
   {
     "id": 99,
@@ -1482,7 +1482,7 @@
     "author_romaji": "Gotoba In",
     "poem_theme": "愛憎が交錯し、思い悩みつつ世に生きる身の嘆き",
     "commentary": "##",
-    "title": "To me, with all my sadness,"
+    "title": "Love and hate are interlaced, and the lament of life living in the world worried"
   },
   {
     "id": 100,
@@ -1497,6 +1497,6 @@
     "author_romaji": "Juntoku In",
     "poem_theme": "栄えていた昔の御代を懐かしみ朝廷の衰微を嘆く心",
     "commentary": "##",
-    "title": "But numerous as they are,"
+    "title": "I miss the prosperous old generation and lament the decline of the court"
   }
 ]
